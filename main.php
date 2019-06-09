@@ -21,6 +21,9 @@
     <ul id="task">
 
     </ul>
+  <div align="center">
+  <input type="button" value="Выйти" class="addBtn" onclick="javascript:window.location='index.php'" >
+  </div>  
 
 </div>
 </body>
